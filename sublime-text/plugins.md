@@ -105,6 +105,22 @@ Tool for sorting CSS properties in specific order.
 
 Umí v prohlížeči zobrazit náhled markdown souboru. Dobré v kombinaci s LiveReload.
 
+### AdvancedNew File
+
+Jednodušší tvorba nových souborů v projektu
+
+### Color Highlighter
+
+Po kliknutí na zápis barvy obarví pozadí vybranou barvou. IMHO lepší než "Gutter Color"
+
+### GIT Gutter
+
+Vedle čísla řádku zobrazuje změny v souboru oproti GIT repositáři (add, remove, update)
+
+### Pandoc
+
+Konverze do různých formátů (HTML, MD...)
+
 ### Sass
 
 ### LESS
