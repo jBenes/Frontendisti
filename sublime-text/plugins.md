@@ -101,6 +101,10 @@ Tool for sorting CSS properties in specific order.
 
 [Demo](https://github.com/csscomb/csscomb-for-sublime)
 
+### Markdown Preview
+
+Umí v prohlížeči zobrazit náhled markdown souboru. Dobré v kombinaci s LiveReload.
+
 ### Sass
 
 ### LESS
