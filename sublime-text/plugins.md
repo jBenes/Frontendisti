@@ -126,3 +126,7 @@ Konverze do různých formátů (HTML, MD...)
 ### LESS
 
 ### SCSS
+
+-----
+
+[Back to table of content](../README.md)

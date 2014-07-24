@@ -24,3 +24,8 @@ Kompilace CoffeeScriptu
 ### contrib-concat
 
 Spojení souborů
+
+
+-----
+
+[Back to table of content](../README.md)
