@@ -9,4 +9,4 @@ Něco jako novější Grunt, tedy task runner nad Node.js, má odstranit jeho ne
 
 -----
 
-[Back to table of content](../README.md)
+[Back to table of content](../../README.md)

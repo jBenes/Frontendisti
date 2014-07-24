@@ -28,4 +28,4 @@ Spojení souborů
 
 -----
 
-[Back to table of content](../README.md)
+[Back to table of content](../../README.md)
