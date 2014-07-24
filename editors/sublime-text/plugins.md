@@ -129,4 +129,4 @@ Konverze do různých formátů (HTML, MD...)
 
 -----
 
-[Back to table of content](../README.md)
+[Back to table of content](../../README.md)

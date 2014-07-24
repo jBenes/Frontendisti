@@ -17,14 +17,14 @@ Table of content
 
 * Task Runners
     - [Grunt](http://gruntjs.com/)
-        - [About Grunt](grunt/about.md)
-        - [Plugins](grunt/plugins.md)
+        - [About Grunt](/task-runners/grunt/about.md)
+        - [Plugins](/task-runners/grunt/plugins.md)
     - [Gulp](http://gulpjs.com/)
-        - [About Gulp](gulp/about.md)
+        - [About Gulp](/task-runners/gulp/about.md)
 
 * Editors
    - [Sublime](http://www.sublimetext.com/)
-        - [Plugins](/sublime-text/plugins.md)
+        - [Plugins](/editors/sublime-text/plugins.md)
 
 * Dotfiles
    - [.gitconfig](/dotfiles/.gitconfig)
