@@ -6,3 +6,7 @@ Něco jako novější Grunt, tedy task runner nad Node.js, má odstranit jeho ne
 ## Užitečné odkazy
 
 [Co to je a jak začít?](http://www.sitepoint.com/introduction-gulp-js/)
+
+-----
+
+[Back to table of content](../readme.md)

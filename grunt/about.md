@@ -14,3 +14,8 @@ In one word: automation. The less work you have to do when performing repetitive
 ## Užitečné odkazy
 
 [Homepage](http://gruntjs.com/)
+
+
+-----
+
+[Back to table of content](../readme.md)
