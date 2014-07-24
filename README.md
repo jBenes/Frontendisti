@@ -25,3 +25,6 @@ Table of content
 * Editors
    - [Sublime](http://www.sublimetext.com/)
         - [Plugins](/sublime-text/plugins.md)
+
+* Dotfiles
+   - [.gitconfig](/dotfiles/.gitconfig)
